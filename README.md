@@ -1,20 +1,13 @@
-## Getting Started
+## POO - Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Modelagem e Diagramação de um Componente iPhone
 
-## Folder Structure
+Neste desafio, fui responsável responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Representação do Diagrama em UML
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+`Representação UML Iphone` 
 
 [![](https://mermaid.ink/img/pako:eNp1k01vozAQhv8K8inVkigNJCFWL1F7qbRbrbarPay4TPEELBkPMnbVJpv_viYfBELqC_id155nxvaOZSSQcZYpqOsnCbmBMtWBH89VQRqDh3_jcfALK0PCWTI_XC0zUEPLugKDqqDfqHBDWmY09LzAO-YgyDxri0ajHVr8cuipPBgH9pZoWqZb_oYBuwEefAssZXCqYHR3HdzAFs13mUMGNHq1Rup84MEP-SbNT8ilhr7n0L9hn3bHaOChyoOytg4UD45rz8ET2eguuCgVuLqRLkrtq8ok6baEHsC-yzE8jA6IdiWacwiHLMr3wPQ3b2SwqAX2iKTfWYJ5JGNQ0h_ajm7BDE69w-KM-qIjX7f6ACPksRUv9A7rN7hQ3QBo7lSbs8lqoQRdEPcF2K5usCbl_PlfRc40j-QrcIKuedqsLGS-tyVI4Z_UIWXKbIElpoz7X4EbcMqmLNWNFfxFef3UGePWOAyZIZcXjG9A1X7mKuFbfnqSrYpCNrfr9GibT8gq0H-JLh4_Z3zHPhifreaT2TRarKJVEkVRHC9C9sn4fTRZRqtlMk3m8WwZL5b7kG0PO9xPpscRzZM4SRbzeP8fq0ZJRA?type=png)](https://mermaid.live/edit#pako:eNp1k01vozAQhv8K8inVkigNJCFWL1F7qbRbrbarPay4TPEELBkPMnbVJpv_viYfBELqC_id155nxvaOZSSQcZYpqOsnCbmBMtWBH89VQRqDh3_jcfALK0PCWTI_XC0zUEPLugKDqqDfqHBDWmY09LzAO-YgyDxri0ajHVr8cuipPBgH9pZoWqZb_oYBuwEefAssZXCqYHR3HdzAFs13mUMGNHq1Rup84MEP-SbNT8ilhr7n0L9hn3bHaOChyoOytg4UD45rz8ET2eguuCgVuLqRLkrtq8ok6baEHsC-yzE8jA6IdiWacwiHLMr3wPQ3b2SwqAX2iKTfWYJ5JGNQ0h_ajm7BDE69w-KM-qIjX7f6ACPksRUv9A7rN7hQ3QBo7lSbs8lqoQRdEPcF2K5usCbl_PlfRc40j-QrcIKuedqsLGS-tyVI4Z_UIWXKbIElpoz7X4EbcMqmLNWNFfxFef3UGePWOAyZIZcXjG9A1X7mKuFbfnqSrYpCNrfr9GibT8gq0H-JLh4_Z3zHPhifreaT2TRarKJVEkVRHC9C9sn4fTRZRqtlMk3m8WwZL5b7kG0PO9xPpscRzZM4SRbzeP8fq0ZJRA)
